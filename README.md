@@ -1,10 +1,4 @@
-# Kindred — Social Development Events Server API
 
-Backend RESTful API service built with Express.js and MongoDB to power the community-driven event management platform.
-
-## 🌐 Live API & Links
-- **Client Live Site:** [https://ais-dev-pdwioijd5pyoafqyc62r2m-371423969760.asia-northeast1.run.app](https://ais-dev-pdwioijd5pyoafqyc62r2m-371423969760.asia-northeast1.run.app)
-- **Shared App URL:** [https://ais-pre-pdwioijd5pyoafqyc62r2m-371423969760.asia-northeast1.run.app](https://ais-pre-pdwioijd5pyoafqyc62r2m-371423969760.asia-northeast1.run.app)
 
 ---
 
